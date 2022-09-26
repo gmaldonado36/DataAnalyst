@@ -1,2 +1,3 @@
 # DataAnalyst
-My data analyst a basci sintaxis projects
+My data analyst and basic sintaxis projects
+
